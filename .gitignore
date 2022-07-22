@@ -1,0 +1,5 @@
+*.pdf
+.ipynb_checkpoints/
+students/
+df_audio_features_final-beta.ipynb
+df_audio_features_final-functions.ipynb
